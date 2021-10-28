@@ -1,0 +1,2 @@
+/Users/fujiwarataku/cutfruits/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/fujiwarataku/cutfruits/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
